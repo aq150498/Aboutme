@@ -1,0 +1,70 @@
+body {
+
+	background-color: #B0C4DE;
+}
+img {
+	border: 2px groove #FFA500;
+	width: 195px;
+	height: 250px;
+	margin-bottom: 0px;
+}
+
+header h1 {
+	color: white;
+	background-color: #9ACD32;
+	border: 1px groove #FFA500;
+	width: 200px;
+	height: 35px;
+	margin-top: 0px;
+	margin-bottom: 1px;
+	padding: 2px;
+
+}
+
+header h2 {
+
+	color: white;
+	background-color: #32CD32;
+	border: 1px groove #FFA500;
+	width: 500px;
+	height: 35px;
+	margin-top: 0px;
+	padding-top: 5px;
+}
+
+.education {
+
+	background-color: silver;
+	border: 1px solid #FFA500;
+	width: 49.5%;
+	padding: 2px;
+	margin-right: 0px;
+	padding-bottom: 4px;
+	float:left;
+}
+
+.employment {
+	background-color: silver;
+	border: 1px solid #FFA500;
+	width: 49.5%;
+	padding: 2px;
+	margin-left: 0px;
+	padding-bottom: 4px;
+	float: right;
+
+}
+
+.contact {
+
+	background-color: silver;
+	border: 1px solid #FFA500;
+	width: 99.5%;
+	padding:3px;
+	position: : inline-block;
+
+}
+
+section h2 {
+
+	border-bottom: 1px groove #FFA500;
+}
